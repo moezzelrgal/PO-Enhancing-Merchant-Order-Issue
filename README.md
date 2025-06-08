@@ -120,5 +120,5 @@ Root cause: absence of integrated tools and workflows.
 For questions or collaboration opportunities, please reach out to:
 
 **Mohamed Ezzelregal**  
-Email: mohammedezzelrgal@gmail.com 
-LinkedIn: [linkedin.com/in/mohamed-ezzelregal](https://linkedin.com/in/mohamed-ezzelregal)
+- Email: mohammedezzelrgal@gmail.com 
+- LinkedIn: [linkedin.com/in/mohamed-ezzelregal](https://www.linkedin.com/in/mohamed-ezzelrgal/)
